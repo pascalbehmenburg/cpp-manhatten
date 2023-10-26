@@ -1,0 +1,21 @@
+{
+  "name": "cpp-manhatten",
+  "displayName": "cpp-manhatten",
+  "description": "Adds all extensions needed for developing in cpp with the gang.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "eamodio.gitlens",
+    "llvm-vs-code-extensions.vscode-clangd",
+    "ms-vscode.cmake-tools",
+    "twxs.cmake",
+    "vadimcn.vscode-lldb",
+    "ms-vscode.test-adapter-converter",
+    "hbenl.vscode-test-explorer"
+  ]
+}

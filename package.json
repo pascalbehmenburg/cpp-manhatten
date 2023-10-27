@@ -2,13 +2,13 @@
   "name": "cpp-manhatten",
   "displayName": "cpp-manhatten",
   "description": "Adds all extensions needed for developing in cpp with the gang.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/pascalbehmenburg/cpp-manhatten.git"
   },
   "engines": {
-    "vscode": "^1.83.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Extension Packs"
